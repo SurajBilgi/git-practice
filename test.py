@@ -3,3 +3,4 @@ def main():
 
 main()
 main("feature1")
+main("Master")

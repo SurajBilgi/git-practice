@@ -2,4 +2,4 @@ def main():
     print("Hey")
 
 main()
-main()
+main("feature1")
